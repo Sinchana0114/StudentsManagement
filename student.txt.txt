@@ -1,0 +1,5 @@
+Student Management System
+
+Student Name: Sinchana C N
+USN: 4GW25CS099
+Department: CSE
